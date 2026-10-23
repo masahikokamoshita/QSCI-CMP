@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "QSCI-CMP: code and data"
+authors:
+  - family-names: Kamoshita
+    given-names: Masahiko
+    orcid: "https://orcid.org/0009-0000-8112-132X"
+  - family-names: Mitarai
+    given-names: Kosuke
+license: MIT
+preferred-citation:
+  type: article
+  title: "QSCI-CMP: Quantum-Selected Configuration Interaction with Chemically Motivated Preselection"
+  authors:
+    - family-names: Kamoshita
+      given-names: Masahiko
+    - family-names: Mitarai
+      given-names: Kosuke
+  year: 2026
+  url: "https://arxiv.org/abs/2608.05766"

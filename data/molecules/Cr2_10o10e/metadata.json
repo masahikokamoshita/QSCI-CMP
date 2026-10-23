@@ -1,0 +1,10 @@
+{
+  "name": "Cr2_10o10e",
+  "label": "Cr2",
+  "n_orb_cas": 10,
+  "n_ele_cas": 10,
+  "n_qubits": 20,
+  "e_core": -2064.9069324650945,
+  "hf_energy": -2085.9559066954303,
+  "exact_energy": -2085.973411321643
+}

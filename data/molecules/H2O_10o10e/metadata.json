@@ -1,0 +1,10 @@
+{
+  "name": "H2O_10o10e",
+  "label": "H2O",
+  "n_orb_cas": 10,
+  "n_ele_cas": 10,
+  "n_qubits": 20,
+  "e_core": 8.906364591010325,
+  "hf_energy": -76.0231211391389,
+  "exact_energy": -76.07532229460884
+}
